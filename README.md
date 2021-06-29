@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Web Developer. I discovered in programming a career full of challenges and opportunities, I am in constant learning, always evolving to deliver my best.</h3>
 
 <p align="center">
-  JavaScript | HTML | CSS | Git
+  JavaScript | HTML5 | CSS3 | Git
 </p>
 
 <p align="center">
