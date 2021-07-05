@@ -6,6 +6,8 @@
   JavaScript | HTML5 | CSS3 | Git
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=olucasklein&label=Profile%20views&color=0e75b6&style=flat" alt="olucasklein" /> </p>
+
 <p align="center">
   <a
     href="https://web.whatsapp.com/send?phone=+5522999165664" 
