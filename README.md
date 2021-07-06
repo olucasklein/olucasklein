@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Web Developer. I discovered in programming a career full of challenges and opportunities, I am in constant learning, always evolving to deliver my best.</h3>
 
 <p align="center">
-  JavaScript | HTML5 | CSS3 | Git
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 Focused in <b>Javascript</b>, <b>Html</b> and <b>CSS</b>
 </p>
 
 <p align="center">
@@ -58,9 +58,6 @@
 </p>
 <p align="center">
   📚 Graduating in <b>Information Systems</b> &nbsp;
-</p>
-<p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 Focused in <b>Javascript</b>, <b>Html</b> and <b>CSS</b>
 </p>
   &nbsp;
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olucasklein&show_icons=true&theme=dark&locale=en&layout=compact" alt="brnoliveira110" /></p>
