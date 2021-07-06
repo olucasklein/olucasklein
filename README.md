@@ -49,7 +49,7 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=olucasklein&label=Profile%20views&color=white&style=flat" alt="olucasklein" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=olucasklein&label=Profile%20views&color=0e75b6&style=flat" alt="olucasklein" /> </p>
 
 <p align="center">
   📌 Living in <b>Bom Jardim</b>, <b>Rio de Janeiro</b>, <b>Brazil</b>
