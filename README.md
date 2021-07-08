@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋 I'm Lucas Klein</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/69046512/124919378-902b2080-dfcc-11eb-9702-5f20acc73353.png"/>
+<img src="https://user-images.githubusercontent.com/69046512/124920087-56a6e500-dfcd-11eb-9073-13364dd8fad5.png"/>
 </p>
   
 <h3 align="center">I'm a Web Developer. I discovered in programming a career full of challenges and opportunities, I am in constant learning, always evolving to deliver my best.</h3>
