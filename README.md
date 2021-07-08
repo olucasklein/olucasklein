@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋 I'm Lucas Klein</h1>
 
-<p align="center" width=60%>
+<p align="center" width=40%>
 <img src="https://user-images.githubusercontent.com/69046512/124918469-70dfc380-dfcb-11eb-9f29-e40218d4d9bc.png"/>
 </p>
   
