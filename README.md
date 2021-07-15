@@ -42,7 +42,7 @@
     alt="Facebook"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Facebook-747474?style=flat&logo=Facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white" />
   </a>
   <a
     href="https://www.instagram.com/olucasklein" 
