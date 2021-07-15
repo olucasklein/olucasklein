@@ -14,7 +14,7 @@
     alt="WhatsApp"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-WhatsApp-747474?style=flat&logo=WhatsApp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WhatsApp-#3dc44f?style=flat&logo=WhatsApp&logoColor=white" />
   </a>
   <a
     href="mailto:olucasklein@hotmail.com" 
