@@ -28,7 +28,7 @@
     alt="LinkedIn"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-LinkedIn-747474?style=flat&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a
     href="https://github.com/olucasklein"
