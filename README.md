@@ -49,7 +49,7 @@
     alt="Instagram"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Instagram-747474?style=flat&logo=Instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Instagram-b33c90?style=flat&logo=Instagram&logoColor=white" />
   </a>
 </p>
 
