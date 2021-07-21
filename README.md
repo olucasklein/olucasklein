@@ -28,7 +28,6 @@
     alt="LinkedIn"
     target="blank"
   >
-  <a/>
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a
