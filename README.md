@@ -21,7 +21,8 @@
     alt="Email"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Email-BB001B?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:olucasklein@hotmail.com" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-olucasklein@hotmail.com-BB001B?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:olucasklein@hotmail.com" style="max-width:100%; /></a>
+    <img src="https://img.shields.io/badge/-Email-BB001B?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:olucasklein@hotmail.com" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-olucasklein@hotmail.com-BB001B?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:olucasklein@hotmail.com" style="max-width:100%" />
+   </a>
   <a
     href="https://www.linkedin.com/in/olucasklein" 
     alt="LinkedIn"
