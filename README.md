@@ -1,9 +1,9 @@
 <h1 align="center">Hello👋 I'm Lucas Klein</h1>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/69046512/124920087-56a6e500-dfcd-11eb-9073-13364dd8fad5.png"/>
-</p>
-  
+ <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=olucasklein&show_icons=true&theme=dark&locale=en&layout=compact" alt="brnoliveira110" /></p>
+  &nbsp;
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=olucasklein&show_icons=true&theme=dark&locale=en" alt="brnoliveira110" /></p>
+
 <h3 align="center">I'm a Web Developer. I discovered in programming a career full of challenges and opportunities, I am in constant learning, always evolving to deliver my best.</h3>
 
 <p align="center">🎯 <b>JavaScript</b> | <b>HTML5</b> | <b>CSS3</b> | <b>GIT</b></p>
@@ -61,8 +61,10 @@
 <p align="center">
   📚 Graduating in <b>Information Systems</b>
 </p>
+
+<p align="center">
+<img src="github-contribution-grid-snake.svg"/>
+</p>
   &nbsp;
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olucasklein&show_icons=true&theme=dark&locale=en&layout=compact" alt="brnoliveira110" /></p>
-  &nbsp;
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=olucasklein&show_icons=true&theme=dark&locale=en" alt="brnoliveira110" /></p>
+  
 
