@@ -1,7 +1,10 @@
 <h1 align="center">Hello👋 I'm Lucas Klein</h1>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olucasklein&show_icons=true&theme=dark&locale=en&layout=compact" alt="brnoliveira110" />
- <img src="https://github-readme-stats.vercel.app/api?username=olucasklein&show_icons=true&theme=dark&locale=en" alt="brnoliveira110" />
+ <div>
+  <a href="https://github.com/LuzianeFreitas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olucasklein&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucasklein&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <h3 align="center">I'm a Web Developer. I discovered in programming a career full of challenges and opportunities, I am in constant learning, always evolving to deliver my best.</h3>
 
