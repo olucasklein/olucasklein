@@ -1,9 +1,9 @@
 <h1 align="center">Hello👋 I'm Lucas Klein</h1>
 
- <div align="center">
+<div align="center">
   <a href="https://github.com/LuzianeFreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olucasklein&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucasklein&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olucasklein&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucasklein&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <h3 align="center">I'm a Web Developer. I discovered in programming a career full of challenges and opportunities, I am in constant learning, always evolving to deliver my best.</h3>
@@ -67,6 +67,5 @@
 <p align="center">
 <img src="github-contribution-grid-snake.svg"/>
 </p>
-  &nbsp;
   
 
