@@ -8,7 +8,7 @@
 
 <h3 align="center">I'm a Web Developer. I discovered in programming a career full of challenges and opportunities, I am in constant learning, always evolving to deliver my best.</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
