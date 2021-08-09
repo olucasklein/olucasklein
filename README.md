@@ -8,6 +8,7 @@
 
 <h3 align="center">I'm a Web Developer. I discovered in programming a career full of challenges and opportunities, I am in constant learning, always evolving to deliver my best.</h3>
 
+<div align ="center">
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
@@ -90,6 +91,7 @@
     <img src="https://img.shields.io/badge/-Instagram-b33c90?style=flat&logo=Instagram&logoColor=white" />
   </a>
 </p>
+</div>  
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=olucasklein&label=Profile%20views&color=0e75b6&style=flat" alt="olucasklein" /> </p>
 
