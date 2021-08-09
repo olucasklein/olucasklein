@@ -1,8 +1,7 @@
 <h1 align="center">Hello👋 I'm Lucas Klein</h1>
 
- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=olucasklein&show_icons=true&theme=dark&locale=en&layout=compact" alt="brnoliveira110" /></p>
-  &nbsp;
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=olucasklein&show_icons=true&theme=dark&locale=en" alt="brnoliveira110" /></p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olucasklein&show_icons=true&theme=dark&locale=en&layout=compact" alt="brnoliveira110" />
+ <img src="https://github-readme-stats.vercel.app/api?username=olucasklein&show_icons=true&theme=dark&locale=en" alt="brnoliveira110" />
 
 <h3 align="center">I'm a Web Developer. I discovered in programming a career full of challenges and opportunities, I am in constant learning, always evolving to deliver my best.</h3>
 
