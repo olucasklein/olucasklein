@@ -5,7 +5,7 @@ Front-End Developer with 4+ years of experience, currently studying UX/UI. Passi
 </h4>
 
 <p align="center">
-  🌐 <a href="https://portfolio-lucas-kleins-projects.vercel.app/" target="_blank">
+  🌐 <a href="https://portfolio-lucasklein.vercel.app" target="_blank">
     <b>View my portfolio</b>
   </a>
 </p>
