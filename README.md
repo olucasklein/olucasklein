@@ -1,6 +1,8 @@
 <h1 align="center">Hello👋 I'm Lucas Klein</h1>
 
-<h4 align="center">I'm a Web Developer. I discovered in programming a career full of challenges and opportunities, I am in constant learning, always evolving to deliver my best.</h3>
+<h4 a<h4 align="center">
+Front-End Developer with 4+ years of experience, currently studying UX/UI. Passionate about building clean, scalable interfaces and constantly evolving to deliver high-quality digital experiences.
+</h4>
 
 <div align="center">
   <a href="https://github.com/olucasklein">
@@ -139,7 +141,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=olucasklein&label=Profile%20views&color=0e75b6&style=flat" alt="olucasklein" /> </p>
 
 <p align="center">
-  📚 Graduating in <b>Information Systems</b>
+  📚 Graduated in <b>Information Systems</b>
 </p>
 
 #
