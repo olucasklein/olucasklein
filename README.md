@@ -122,20 +122,6 @@ Front-End Developer with 4+ years of experience, currently studying UX/UI. Passi
   >
     <img src="https://img.shields.io/badge/-GitHub-747474?style=flat&logo=Github&logoColor=white" />
   </a>
-  <a
-    href="https://www.facebook.com/olucasklein" 
-    alt="Facebook"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white" />
-  </a>
-  <a
-    href="https://www.instagram.com/olucasklein" 
-    alt="Instagram"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Instagram-b33c90?style=flat&logo=Instagram&logoColor=white" />
-  </a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=olucasklein&label=Profile%20views&color=0e75b6&style=flat" alt="olucasklein" /> </p>
