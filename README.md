@@ -10,12 +10,12 @@ Front-End Developer with 4+ years of experience, currently studying UX/UI. Passi
   </a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/olucasklein">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olucasklein&show_icons=true&theme=dark&cache_seconds=1800"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olucasklein&layout=compact&langs_count=7&theme=dark"/>
   </a>
-</div>
+</div> -->
 
 &nbsp;
 
