@@ -62,7 +62,7 @@ Front-End Developer with 4+ years of experience, currently studying UX/UI. Passi
   <a href="https://github.com/olucasklein" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-747474?style=flat&logo=Github&logoColor=white" />
   </a>
-  <a href="https://portfolio-lucas-kleins-projects.vercel.app/" target="_blank">
+  <a href="https://www.lucaskleindev.com" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
 </p>
