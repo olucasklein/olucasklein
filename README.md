@@ -4,11 +4,11 @@
 Front-End Developer with 4+ years of experience, currently studying UX/UI. Passionate about building clean, scalable interfaces and constantly evolving to deliver high-quality digital experiences.
 </h4>
 
-<p align="center">
+<!-- <p align="center">
   🌐 <a href="https://www.lucaskleindev.com" target="_blank">
     <b>View my portfolio</b>
   </a>
-</p>
+</p> -->
 
 <!-- <div align="center">
   <a href="https://github.com/olucasklein">
